@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/promodprira-react/static/css/main.4334a42b.css",
+    "main.js": "/promodprira-react/static/js/main.988c7773.js",
+    "static/js/787.56e2d9c5.chunk.js": "/promodprira-react/static/js/787.56e2d9c5.chunk.js",
+    "static/media/CRI.jpg": "/promodprira-react/static/media/CRI.c56204a38516cedc8c7a.jpg",
+    "static/media/Logo.jpg": "/promodprira-react/static/media/Logo.302fc016ed0756e50965.jpg",
+    "static/media/PAN5.jpg": "/promodprira-react/static/media/PAN5.265a0c17c4b1265a287d.jpg",
+    "static/media/MKH.jpg": "/promodprira-react/static/media/MKH.1000e2adeb8874035524.jpg",
+    "static/media/PAN6.jpg": "/promodprira-react/static/media/PAN6.20df6528b5b0d703152b.jpg",
+    "static/media/PAN3.jpg": "/promodprira-react/static/media/PAN3.06d6d805904bd13e7d51.jpg",
+    "static/media/PAN1.jpg": "/promodprira-react/static/media/PAN1.7e2ca12a4b1a5345859e.jpg",
+    "static/media/PAN4.jpg": "/promodprira-react/static/media/PAN4.fe2cb5480caa8d3fc9c7.jpg",
+    "static/media/PAN2.jpg": "/promodprira-react/static/media/PAN2.f9c53e4fc7c343c5b16f.jpg",
+    "index.html": "/promodprira-react/index.html",
+    "main.4334a42b.css.map": "/promodprira-react/static/css/main.4334a42b.css.map",
+    "main.988c7773.js.map": "/promodprira-react/static/js/main.988c7773.js.map",
+    "787.56e2d9c5.chunk.js.map": "/promodprira-react/static/js/787.56e2d9c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4334a42b.css",
+    "static/js/main.988c7773.js"
+  ]
+}
