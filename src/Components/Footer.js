@@ -14,15 +14,15 @@ function Footer() {
                 <li className="mb-4">
                   <a href="" className="hover:underline">
                     About Us
-                  </a>href               </li>
+                  </a>          </li>
                 <li className="mb-4">
                   <a href="/contact" className="hover:underline">
                   Contact
-                  </a>href               </li>
+                  </a>               </li>
                 <li>
                   <a href="/gallery" className="hover:underline">
                   Gallery
-                  </a>href               </li>
+                  </a>               </li>
               </ul>
             </div>
             <div>
@@ -50,11 +50,11 @@ function Footer() {
                 <li className="mb-4">
                   <a href="#" className="hover:underline">
                     Privacy Policy
-                  </a>href               </li>
+                  </a>               </li>
                 <li>
                   <a href="#" className="hover:underline">
                     Terms &amp; Conditions
-                  </a>href               </li>
+                  </a>               </li>
               </ul>
             </div>
           </div>
