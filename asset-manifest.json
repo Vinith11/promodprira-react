@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/promodprira-react/static/css/main.c3189740.css",
-    "main.js": "/promodprira-react/static/js/main.721b5d7a.js",
+    "main.js": "/promodprira-react/static/js/main.70aa95b2.js",
     "static/js/787.56e2d9c5.chunk.js": "/promodprira-react/static/js/787.56e2d9c5.chunk.js",
     "static/media/CRI.jpg": "/promodprira-react/static/media/CRI.c56204a38516cedc8c7a.jpg",
     "static/media/Logo.jpg": "/promodprira-react/static/media/Logo.302fc016ed0756e50965.jpg",
@@ -14,11 +14,11 @@
     "static/media/PAN2.jpg": "/promodprira-react/static/media/PAN2.f9c53e4fc7c343c5b16f.jpg",
     "index.html": "/promodprira-react/index.html",
     "main.c3189740.css.map": "/promodprira-react/static/css/main.c3189740.css.map",
-    "main.721b5d7a.js.map": "/promodprira-react/static/js/main.721b5d7a.js.map",
+    "main.70aa95b2.js.map": "/promodprira-react/static/js/main.70aa95b2.js.map",
     "787.56e2d9c5.chunk.js.map": "/promodprira-react/static/js/787.56e2d9c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3189740.css",
-    "static/js/main.721b5d7a.js"
+    "static/js/main.70aa95b2.js"
   ]
 }
