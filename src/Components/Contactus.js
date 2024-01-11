@@ -107,7 +107,7 @@ const Contactus = () => {
         </div>
         <div className="mb-2">
           <label className="block text-sm font-medium text-gray-600">Contact Number</label>
-          <p className="text-gray-800">+91 12345 67890</p>
+          <a className="text-gray-800" href="tel:+911234567890">+91 12345 67890</a>
         </div>
         <div className="mb-2">
           <label className="block text-sm font-medium text-gray-600">NGO Team Members</label>
